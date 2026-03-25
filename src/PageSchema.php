@@ -1,6 +1,6 @@
 <?php
 
-namespace Orbistra\ModuleSdk;
+namespace Orbistra\SDK;
 
 /**
  * Defines the JSON-driven UI schema for a module page.

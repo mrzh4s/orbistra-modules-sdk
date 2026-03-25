@@ -1,6 +1,6 @@
 <?php
 
-namespace Orbistra\ModuleSdk;
+namespace Orbistra\SDK;
 
 use Inertia\Inertia;
 use Inertia\Response;

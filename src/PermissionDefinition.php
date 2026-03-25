@@ -1,6 +1,6 @@
 <?php
 
-namespace Orbistra\ModuleSdk;
+namespace Orbistra\SDK;
 
 /**
  * Declares a permission that this module requires.
