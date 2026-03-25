@@ -3,7 +3,7 @@
     "description": "SDK for building external Orbistra modules",
     "type": "library",
     "license": "MIT",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "require": {
         "php": "^8.4",
         "illuminate/contracts": "^13.2.0",
@@ -16,7 +16,7 @@
     },
     "extra": {
         "orbistra": {
-            "sdk-version": "1.0.0",
+            "sdk-version": "1.0.1",
             "api-level": 1,
             "min-host-version": "1.0.0"
         }
