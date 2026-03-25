@@ -1,0 +1,24 @@
+{
+    "name": "orbistra/sdk",
+    "description": "SDK for building external Orbistra modules",
+    "type": "library",
+    "license": "MIT",
+    "version": "1.0.0",
+    "require": {
+        "php": "^8.4",
+        "illuminate/contracts": "^13.2.0",
+        "illuminate/support": "^13.2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Orbistra\\SDK\\": "src/"
+        }
+    },
+    "extra": {
+        "orbistra": {
+            "sdk-version": "1.0.0",
+            "api-level": 1,
+            "min-host-version": "1.0.0"
+        }
+    }
+}
